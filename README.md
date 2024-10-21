@@ -1,33 +1,30 @@
-# Project Title
+# Assignment week 5
 
-One Paragraph of project description goes here.
+This is my assignment for week 5 github that will show python file that outputs 
+I am student at Renton Technical College, studying BAS Computer Networking, Instructed by professor Zak
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+Following the instructions will install Visual Studio Code on your local machine for running your code and click this URL link https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false.
+
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
-
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
-
+Know basic computer skills and python basics
 ## Running
 Once installed you can run the program with the following command
 
 ```
-python cne_demo.py
+cd C:\path\to\your\folder py assignment_week5.py
+
+for example below is how I run on my local machine
+
+cd C:\Users\warah\CNE310_ELMI_A py assignment_week5.py
+
 ```
 
-Add any additional ways to run the program below
-
-```
-python cne_demo.py test.txt
-```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+I wanna thank GitHub YouTube page for the video titled How to create your first GitHub repository: A beginner's guide | Tutorial 
+The link to the video https://www.youtube.com/watch?v=-RZ03WHqkaY
+
