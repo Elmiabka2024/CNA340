@@ -17,7 +17,7 @@ Once installed you can run the program with the following command
 ```
 cd C:\path\to\your\folder py assignment_week5.py
 
-for example below is how I run on my local machine
+#for example below is how I run on my local machine
 
 cd C:\Users\warah\CNE310_ELMI_A py assignment_week5.py
 
